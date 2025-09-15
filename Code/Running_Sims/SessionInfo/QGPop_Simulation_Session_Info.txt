@@ -1,0 +1,9 @@
+Julia V1.9.2
+Packages:
+
+CSV V.0.10.11
+DataFrames V.1.6.1
+Distributions V.0.25.100
+GLM V.1.8.3
+LogExpFunctions V.0.3.26
+StatsBase V.0.34.0
