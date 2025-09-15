@@ -1,6 +1,6 @@
-Description of code and data files affiliated with Kustra and Carrier 2025 "*Microbes as manipulators of egg size and developmental evolution*."
+Description of code and data files affiliated with Kustra and Carrier 2025 "*Microbes as manipulators of egg size and developmental evolution*." https://journals.asm.org/doi/10.1128/mbio.03655-24
 
-For questions, contact: Matthew Kustra: [matthewckustra@gmail.com](mailto:matthewckustra@gmail.com)
+For questions, contact: Matthew Kustra: [matthewckustra@gmail.com](mailto:matthewckustra@gmail.com) 
 
 To properly run the **analysis** code, first unzip both **"Code.zip"** and **"Data.zip."** Then, make sure the Code and Data files are in the directories described below. This is most easily accomplished by moving all code files in the ***Analysis*** directory of the unzipped **"Code.zip"** to the directory above the unzipped **"Data.zip."**
 
