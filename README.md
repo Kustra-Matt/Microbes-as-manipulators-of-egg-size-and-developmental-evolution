@@ -2,7 +2,7 @@ Description of code and data files affiliated with Kustra and Carrier 2025 "*Mic
 
 For questions, contact: Matthew Kustra: [matthewckustra@gmail.com](mailto:matthewckustra@gmail.com) 
 
-To properly run the **analysis** code, first unzip both **"Code.zip"** and **"Data.zip."** Then, make sure the Code and Data files are in the directories described below. This is most easily accomplished by moving all code files in the ***Analysis*** directory of the unzipped **"Code.zip"** to the directory above the unzipped **"Data.zip."**
+To properly run the **analysis** code, first unzip both **"Code.zip"** and **"Data.zip."** Then, make sure the Code and Data files are in the directories described below. This is most easily accomplished by moving all code files in the ***Analysis*** directory of the unzipped **"Code.zip"** to the directory above the unzipped **"Data.zip."** Data files are on Dryad: https://doi.org/10.5061/dryad.0p2ngf27f
 
 Below is a description of all the code and data files broken down by the directories in which code and data files should be organized in.
 
